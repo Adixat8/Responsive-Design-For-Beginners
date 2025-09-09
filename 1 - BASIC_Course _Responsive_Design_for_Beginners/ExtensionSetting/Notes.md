@@ -1,7 +1,9 @@
-settings --> Search Button --> Default format --> Editor:Default Formatter --> Prettier Code Formatter (✅)  
+# VS Code Settings & Extensions
 
-Prettier:Single Quote ✅ 
-Prettier:Tab Width:2 
+## Editor Settings
+- **Default Formatter**: Prettier - Code formatter ✅  
+- **Prettier: Single Quote**: Enabled ✅  
+- **Prettier: Tab Width**: 2 spaces  
 
-
-Last Extension: SVG (By Jock)
+## Installed Extensions
+- **SVG (by Jock)**
