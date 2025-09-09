@@ -9,13 +9,14 @@
 
 Reason: style.css is generated from SASS (style.scss).
 
-STEP 2: JS Location
+# STEP 2: JS Location
 
 Load JavaScript file from app/js:
 
 <script src="/app/js/script.js"></script>
 
-STEP 3: Project Folder Structure
+# STEP 3: Project Folder Structure
+
 app/
 ├── scss/ # SASS/SCSS files
 │ └── style.scss
@@ -25,7 +26,7 @@ dist/
 └── style.css # Compiled CSS
 index.html
 
-STEP 4: SCSS File
+# STEP 4: SCSS File
 
 Create style.scss inside app/scss/.
 
@@ -39,6 +40,8 @@ $primary-color: hsl(200, 100%, 50%);
 body {
 background-color: $primary-color;
 }
+
+---
 
 # 🎨 Compile SASS → CSS in VS Code
 
